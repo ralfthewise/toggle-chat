@@ -1,0 +1,2 @@
+python-xlib==0.18
+six==1.10.0
