@@ -1,4 +1,8 @@
+appdirs==1.4.0
+daemonize==2.4.7
+packaging==16.8
 plumbum==1.6.3
+pyparsing==2.1.10
 python-xlib==0.18
 rpyc==3.2.3
 six==1.10.0
