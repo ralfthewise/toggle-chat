@@ -1,2 +1,4 @@
+plumbum==1.6.3
 python-xlib==0.18
+rpyc==3.2.3
 six==1.10.0
