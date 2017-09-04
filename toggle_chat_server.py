@@ -12,7 +12,7 @@ import Xlib
 from Xlib import display, X, protocol
 from daemonize import Daemonize
 
-class ToggleChat:
+class ToggleChatServer:
     disp = Xlib.display.Display()
     root = disp.screen().root
 
